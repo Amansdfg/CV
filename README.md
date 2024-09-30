@@ -1,1 +1,5 @@
-[my CV](Aman_Kalabay_CV.pdf)
+## My CV
+
+[![CV Preview](cv-preview.png)](cv.pdf)
+
+Click the image to view the full CV.
